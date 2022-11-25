@@ -1,4 +1,4 @@
-//Remote edit B21090113孙志强
+
 char *StrCpy(char *src)
 {
 
@@ -17,3 +17,6 @@ src++;
 *dest=’\0’;
 return p;
 }
+
+
+//Remote edit B21090113孙志强
