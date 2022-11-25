@@ -1,3 +1,4 @@
+//Remote edit B21090113孙志强
 char *StrCpy(char *src)
 {
 
