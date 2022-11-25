@@ -1,3 +1,4 @@
+
 char *StrCpy(char *src)
 {
 
@@ -16,4 +17,6 @@ src++;
 *dest=’\0’;
 return p;
 }
+
 //local edit B21090113孙志强
+
